@@ -1,2 +1,3 @@
 # mrbear-app-ios
-用于发布IOS的APP发布
+
+邮箱：847734693@qq.com
